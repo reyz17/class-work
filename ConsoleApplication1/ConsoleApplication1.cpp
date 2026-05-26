@@ -2,6 +2,7 @@
 
 int main()
 {
-	int hp = 134;
-    std::cout <<hp;
+	//пупукака
+	int hp = 1000;
+	std::cout << hp;
 }
