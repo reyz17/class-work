@@ -2,6 +2,7 @@
 
 int main()
 {
-	int hp = 134;
+	int hp = 52;
+	 hp = 134;
     std::cout <<hp;
 }
