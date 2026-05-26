@@ -1,7 +1,8 @@
 ﻿#include <iostream>
-
+using namespace std;
 int main()
 {
-	int hp = 134;
-    std::cout <<hp;
+	int hp = 52;
+  hp = 134;
+	cout << hp << endl;
 }
