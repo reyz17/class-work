@@ -3,5 +3,6 @@
 int main()
 {
 	int hp = 52;
-	std::cout << hp;
+	 hp = 134;
+    std::cout <<hp;
 }
